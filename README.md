@@ -8,7 +8,7 @@ An IntelliJ Platform plugin that converts snake_case text to camelCase with a si
 - Smart conversion: only modifies text containing underscores (`_`)
 - Works with multiple selections and multi-line text
 - Preserves text that doesn't contain underscores
-- Simple keyboard shortcut: `Alt+Shift+C` (Windows/Linux) or `Option+Shift+C` (macOS)
+- Simple keyboard shortcut: `Alt+Shift+B` (Windows/Linux) or `Option+Shift+B` (macOS)
 
 ## Installation
 
